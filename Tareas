@@ -1,0 +1,5 @@
+Hacer funcionar la Prueba 1 xD
+
+
+General
+Revisar si todas las estructuras que se envian por socket estan con directiva __attribute__((__packed__))

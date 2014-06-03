@@ -1,0 +1,24 @@
+Direccion para clonar el repositorio:
+https://github.com/sisoputnfrba/tp-20131c-nintendo-c-nintendo-nada.git
+Instrucciones del mail de Ezequiel
+1) Logearse
+2) Ver si esta escrito .bashrc (cat .bashrc)
+2.1) Si esta escrito, borrar los datos. (vim .bashrc [Con A agregas, Esc para dejar de agregar, :wq para guardar y salir])
+2.2) Deslogearse y volver a logearse (exit)
+3) Crear carpeta "Escritorio" en /home/utnso. (mkdir Escritorio)
+4) Esperar a que Ezequiel copie el tp en /home/utnso/Escritorio/tp-20131c-blabla
+5) Ejecutar ./export
+6) Deslogearse y volver a logearse (exit)
+
+
+Aca ya depende si me dejan compilar todo el codigo en una maquina y mandarselo a las demas compiladas,
+o si hay que compilarlo en cada maquina.
+
+Si hay que compilar en cada maquina...
+1) Ir a la carpeta Debug de cada proyecto y compilar (make). Recordar las dependencias(so-commons primero
+luego nivel, memoria, Nivel, etc..)
+
+Si ya esta compilado...
+1) Editar la ip del orquestador de los archivos de configuracion (Ej. vim mario.txt)
+2) Abrir consolas (Control + Alt + F#) y ejecutar los procesos correspondientes
+

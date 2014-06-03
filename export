@@ -1,0 +1,1 @@
+echo "export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/Escritorio/tp-20131c-nintendo-c-nintendo-nada/so-commons-library/Debug:~/Escritorio/tp-20131c-nintendo-c-nintendo-nada/memoria/Debug:~/Escritorio/tp-20131c-nintendo-c-nintendo-nada/nivel/Debug" >>  ~/.bashrc
